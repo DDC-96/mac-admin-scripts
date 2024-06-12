@@ -1,2 +1,2 @@
-# scripts
+# Toolbox
 # Scripts used as a mac admin
