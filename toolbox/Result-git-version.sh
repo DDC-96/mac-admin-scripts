@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # This script will output Homebrew-Git Version or Apple-Provided Git Version 
-# This script should run first to echo git --version
+# Simillar to running git --version as a user
 
 
 # Default result is "Unknown" 
