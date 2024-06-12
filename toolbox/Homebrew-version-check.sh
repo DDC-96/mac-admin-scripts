@@ -1,7 +1,6 @@
 #!/bin/sh
 
 # This script will output Homebrews current version, else returns "Not Installed" if nothing is found 
-# This script should run 2nd to show me if Homebrew is installed
 
 
 
