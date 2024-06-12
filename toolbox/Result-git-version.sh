@@ -4,7 +4,7 @@
 # Simillar to running git --version as a user
 
 
-# Default result is "Unknown" 
+# Default result is "Unknown" if git is not found on the device
 RESULT="Unknown"
 
 # Get device type (ARM or Intel)
