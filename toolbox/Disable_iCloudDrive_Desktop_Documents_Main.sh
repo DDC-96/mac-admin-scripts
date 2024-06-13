@@ -2,9 +2,7 @@
 
 
 # This script first checks if iCloud Drive is enabled and then checks if iCloud Drive Desktop and Documents Sync is ON.
-# If either of these conditions is met, it proceeds to run the JamfHelper dialog prompting the user to disable iCloud and if action button 1 is clicked
-# it routes them to System Preferences -> iCloud to turn it off.
-
+# If either of these conditions is met, it proceeds to run the JamfHelper dialog prompting the user to disable iCloud 
 # Testing phase 1 (iCloud Signed In)
 # 1. Script Detects iCloud Drive is ON - DONE
 # 2. Script Detects iCloud Drive Desktop and Documents Sync is ON - DONE
