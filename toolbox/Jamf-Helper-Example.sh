@@ -1,6 +1,6 @@
 #!/bin/bash
 
-## Dialog prompt leveraging JamfHelper to notify user with a notification with a choice of using an action button. 
+## JamfHelper to Prompt Notification Dialogs with Action Button. 
 
 loggedInUser=$(stat -f%Su /dev/console/)
 jamfHelper="/Library/Application Support/JAMF/bin/jamfHelper.app/Contents/MacOS/jamfHelper"
