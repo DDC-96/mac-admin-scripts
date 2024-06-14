@@ -9,7 +9,7 @@
 
 
 # Set password policy vars
-PW_EXPIRE_TIME=86400  # 86400 seconds for 24hrs # 900 seconds for 15 minutes (Testing) 6220800 seconds for 72 hours
+PW_EXPIRE_TIME=86400  # 86400 seconds for 24hrs # 900 seconds for 15 minutes 6220800 seconds for 72 hours
 MIN_LENGTH=12
 MIN_NUMERIC=1
 MIN_SPECIAL_CHAR=1
