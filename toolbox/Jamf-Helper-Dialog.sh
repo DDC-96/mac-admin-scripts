@@ -16,7 +16,7 @@ alighHeading="center"
 defaultButton="1"
 timeout="900"
 
-# Jamf Helper Window as it appears for targeted computers
+# VARS
 userChoice=$("$jamfHelper" -windowType "$windowType" -lockHUD -title "$title" -timeout "$timeout" -defaultButton "$defaultButton" -icon "$icon" -description "$description" -alignDescription "$alignDescription" -alignHeading "$alignHeading" -button1 "$button1" -button2 "$button2")
 
 # If user selects "Settings - Action Button 1"
