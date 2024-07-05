@@ -4,7 +4,7 @@
 # Simillar to running git --version as a user
 
 
-# Default result is "Unknown" if git is not found on the device or result install xcode cli tools
+# Default result is "Unknown" if git is not found on the device or will prompt to install xcode cli tools
 RESULT="Unknown"
 
 # Get device type (ARM or Intel)
